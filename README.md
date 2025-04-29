@@ -1,11 +1,11 @@
-## Internship Work - Dona Project
+# Internship Work - Dona Project
 
 This repository contains my work for the internship project related to the Dona Project.
 I will be writing code in Python for tasks related to:
 
-# Data Analysis
+## Data Analysis
 
-# Data Visualization
+## Data Visualization
 
 
 The work will involve using libraries such as:
